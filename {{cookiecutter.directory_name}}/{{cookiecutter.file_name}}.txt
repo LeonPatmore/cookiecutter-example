@@ -1,1 +1,2 @@
 Hello {{cookiecutter.full_name}}!
+How are you?
